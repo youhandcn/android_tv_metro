@@ -18,7 +18,7 @@
             android:id="@+id/menu_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text=""
+            android:text="@string/menu_item"
             android:layout_marginLeft="@dimen/menu_item_margin_left"
             android:inAnimation="@android:anim/fade_in"
             android:outAnimation="@android:anim/fade_out"/>

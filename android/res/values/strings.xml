@@ -20,5 +20,9 @@
     <string name="mine_info_account_title">账户信息</string>
     <string name="mine_info_account_summary_none">您还没有登录</string>
     <string name="mine_info_account_summary_format">%.02f米币</string>
+
+    <string name="text_display">hello world</string>
+    <string name="text_display2">hello world2</string>
+    <string name="menu_item">i am menu item</string>
     
 </resources>

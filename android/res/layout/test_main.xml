@@ -14,7 +14,7 @@
             android:id="@+id/txtDisplay"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="hello_world" />
+            android:text="@string/text_display" />
     </ScrollView>
     <ScrollView
         android:layout_width="400dp"
@@ -25,7 +25,7 @@
             android:id="@+id/txtDisplay2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="hello_world2" />
+            android:text="@string/text_display2" />
     </ScrollView>
 
     <ProgressBar
